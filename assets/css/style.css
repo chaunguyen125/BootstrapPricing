@@ -2,7 +2,7 @@ html {
     
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box; /*để các thẻ kế thừa thuộc tình này từ thẻ html theo quy định của *{}*/
-    max-width: 1349px;
+    
 }
 
 body {
